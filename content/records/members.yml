@@ -23,7 +23,7 @@ members:
     tussenvoegsel: ""
     lastName: Nellestijn
     year: 0
-    bakTime: 2.546
+    bakTime: 2.393
   - firstName: Jurgen
     tussenvoegsel: ""
     lastName: Braan
@@ -63,7 +63,7 @@ members:
     tussenvoegsel: van
     lastName: Dijk
     year: 1
-    bakTime: 2.653
+    bakTime: 2.490
   - firstName: Koen
     tussenvoegsel: ""
     lastName: Ravelli
